@@ -1,0 +1,14 @@
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/*.tfplan
+
+# Private keys
+**/terra-key
+**/terra-ec2-key
+**/*.pem
+**/*.key
+
+# OS files
+.DS_Store

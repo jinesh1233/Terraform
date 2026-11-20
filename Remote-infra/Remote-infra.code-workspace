@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../Terraform-prep"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Modules"
+		},
+		{
+			"path": "../Terraform-eks"
+		}
+	],
+	"settings": {}
+}
